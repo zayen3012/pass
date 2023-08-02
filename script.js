@@ -1,3 +1,2 @@
-alert("Hello world");
-document.body.style.backgroundColor = "yellow";
-var x = 123abc@;
+var x = "123abc@";
+document.body.style.backgroundColor = "green";
